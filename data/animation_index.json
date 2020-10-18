@@ -1,0 +1,44 @@
+[
+	{
+		"type": "animation",
+		"id": 1,
+		"name": "灌篮高手",
+		"post_url": "./upload/index_animation/animation01.webp"
+	},
+	{
+		"type": "animation",
+		"id": 2,
+		"name": "小林家的龙女仆",
+		"post_url": "./upload/index_animation/animation02.webp"
+	},
+	{
+		"type": "animation",
+		"id": 3,
+		"name": "俺物语",
+		"post_url": "./upload/index_animation/animation03.webp"
+	},
+	{
+		"type": "animation",
+		"id": 4,
+		"name": "擅长捉弄人的高木同学",
+		"post_url": "./upload/index_animation/animation04.webp"
+	},
+	{
+		"type": "animation",
+		"id": 5,
+		"name": "冰菓",
+		"post_url": "./upload/index_animation/animation05.webp"
+	},
+	{
+		"type": "animation",
+		"id": 6,
+		"name": "辉夜大小姐想让我告白",
+		"post_url": "./upload/index_animation/animation06.webp"
+	},
+	{
+		"type": "animation",
+		"id": 7,
+		"name": "一拳超人",
+		"post_url": "./upload/index_animation/animation07.webp"
+	}
+]

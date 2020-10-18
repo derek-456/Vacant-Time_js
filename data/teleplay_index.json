@@ -1,0 +1,44 @@
+[
+	{
+		"type": "teleplay",
+		"id": 1,
+		"name": "孤单又灿烂的神：鬼怪",
+		"post_url": "./upload/index_teleplay/teleplay01.webp"
+	},
+	{
+		"type": "teleplay",
+		"id": 2,
+		"name": "请回答1988",
+		"post_url": "./upload/index_teleplay/teleplay02.webp"
+	},
+	{
+		"type": "teleplay",
+		"id": 3,
+		"name": "父母爱情",
+		"post_url": "./upload/index_teleplay/teleplay03.webp"
+	},
+	{
+		"type": "teleplay",
+		"id": 4,
+		"name": "异乡人Doctor",
+		"post_url": "./upload/index_teleplay/teleplay04.webp"
+	},
+	{
+		"type": "teleplay",
+		"id": 5,
+		"name": "当你沉睡时",
+		"post_url": "./upload/index_teleplay/teleplay05.webp"
+	},
+	{
+		"type": "teleplay",
+		"id": 6,
+		"name": "金秘书为何那样",
+		"post_url": "./upload/index_teleplay/teleplay06.webp"
+	},
+	{
+		"type": "teleplay",
+		"id": 7,
+		"name": "雍正王朝",
+		"post_url": "./upload/index_teleplay/teleplay07.webp"
+	}
+]

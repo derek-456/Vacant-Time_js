@@ -1,0 +1,44 @@
+[
+	{
+		"type": "book",
+		"id": 1,
+		"name": "围城",
+		"post_url": "./upload/index_book/book01.jpg"
+	},
+	{
+		"type": "book",
+		"id": 2,
+		"name": "第七天",
+		"post_url": "./upload/index_book/book02.jpg"
+	},
+	{
+		"type": "book",
+		"id": 3,
+		"name": "活着",
+		"post_url": "./upload/index_book/book03.jpg"
+	},
+	{
+		"type": "book",
+		"id": 4,
+		"name": "海边的卡夫卡",
+		"post_url": "./upload/index_book/book04.jpg"
+	},
+	{
+		"type": "book",
+		"id": 5,
+		"name": "大国重工",
+		"post_url": "./upload/index_book/book05.jpg"
+	},
+	{
+		"type": "book",
+		"id": 6,
+		"name": "玛格丽特小镇",
+		"post_url": "./upload/index_book/book06.jpg"
+	},
+	{
+		"type": "book",
+		"id": 7,
+		"name": "解忧杂货铺",
+		"post_url": "./upload/index_book/book07.jpg"
+	}
+]

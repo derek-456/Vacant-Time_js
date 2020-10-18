@@ -1,0 +1,78 @@
+ul,li{
+	list-style: none;
+	color: #fff;
+}
+
+.shortcut{
+	background-color: rgb(227,228,229);
+	height: 30px;
+	line-height: 30px;
+}
+
+.shortcut p{
+	margin: 0;
+}
+
+.shortcut p.fr{
+	font-size: 16px;
+}
+
+header .container{
+	background-color: rgb(41,54,122);
+	height: 80px;
+	line-height: 80px;
+}
+
+header .logo a{
+	display: block;
+	text-align: left;
+}
+
+header .logo a img{
+	margin: 0 auto;
+	text-align: center;
+	/* width: 100%; */
+	/* logo图片不需要缩放 */
+	max-width: 100%;
+}
+
+.logo span{
+	display: block;
+	height: 80px;
+	line-height: 80px;
+	color: #fff;
+	font-size: 40px;
+	font-weight: 600;
+	font-family: "Palace Script MT";
+	text-align: center;
+}
+
+header .col-md-9.col-sm-9.col-xs-12{
+	padding: 0;
+}
+
+header .hd-nav{
+	display: flex;
+	justify-content: flex-end;
+	margin: 0;
+}
+
+@media screen and (max-width:768px) {
+	header .hd-nav{
+		justify-content: space-between;
+		background-color:  rgb(41,54,122);
+		padding: 0;
+		border-top: 2px solid #ccc;
+	}
+}
+
+header .hd-nav li{
+	text-align: center;
+	width: 20%;
+}
+
+header .hd-nav li a{
+	font-size: 20px;
+	font-weight: 600;
+	color: white;
+}
